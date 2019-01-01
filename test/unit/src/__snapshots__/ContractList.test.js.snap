@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`my contract list view it renders successfully 1`] = `
+<div>
+  <snack-bar-stub />
+   
+  <v-toolbar-stub
+    color="white"
+    flat="true"
+    scrollthreshold="300"
+  >
+    <v-toolbar-title-stub>
+      My Contract List
+    </v-toolbar-title-stub>
+     
+    <v-divider-stub
+      class="mx-2"
+      inset="true"
+      vertical="true"
+    />
+     
+    <v-spacer-stub />
+     
+    <v-btn-stub
+      activeclass="v-btn--active"
+      class="mb-2"
+      color="info"
+      tag="button"
+      type="button"
+    >
+      New Contract
+    </v-btn-stub>
+  </v-toolbar-stub>
+   
+  <v-data-table-stub
+    class="elevation-1"
+    customfilter="function _default(items, search, filter, headers) {
+                search = search.toString().toLowerCase();
+                if (search.trim() === '') return items;
+                var props = headers.map(function (h) {
+                    return h.value;
+                });
+                return items.filter(function (item) {
+                    return props.some(function (prop) {
+                        return filter(Object(_util_helpers__WEBPACK_IMPORTED_MODULE_7__[\\"getObjectValueByPath\\"])(item, prop, item[prop]), search);
+                    });
+                });
+            }"
+    headers="[object Object],[object Object],[object Object],[object Object],[object Object]"
+    headertext="text"
+    item-key="updatedTime"
+    items=""
+    loading="true"
+    pagination="[object Object]"
+    rowsperpagetext="$vuetify.dataTable.rowsPerPageText"
+  >
+    <template>
+      <v-btn-stub
+        activeclass="v-btn--active"
+        color="primary"
+        tag="button"
+        type="button"
+      >
+        Reload
+      </v-btn-stub>
+    </template>
+  </v-data-table-stub>
+   
+  <base-modal-stub
+    options="[object Object]"
+  >
+    <new-contract-stub
+      editedindex="-1"
+      editeditem="[object Object]"
+    />
+  </base-modal-stub>
+</div>
+`;

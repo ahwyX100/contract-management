@@ -1,0 +1,2189 @@
+{
+  "contract": [
+    {
+      "id": "926425b3-1bc4-40f6-926c-b5da55dbdc44",
+      "user": {
+        "name": "Limin",
+        "surname": "Chen"
+      },
+      "amountInUsd": "asx",
+      "currency": "CAD",
+      "time": 1546226539580,
+      "updatedTime": 1546226539580
+    },
+    {
+      "id": "55f5a3db-54ce-4cf1-904c-9a459983c7d1",
+      "user": {
+        "name": "Leon2",
+        "surname": "Chen"
+      },
+      "amountInUsd": "asx",
+      "currency": "EUR",
+      "time": 1546231993194,
+      "updatedTime": 1546231993194
+    },
+    {
+      "id": "5962bebe-66f4-4b5c-b8cc-43ee59289cce",
+      "user": {
+        "name": "Leon3",
+        "surname": "Chen"
+      },
+      "amountInUsd": "1000.23",
+      "currency": "CNY",
+      "time": 1546232641478,
+      "updatedTime": 1546232641478
+    },
+    {
+      "id": "dddb65b3-8f14-4290-9900-2d34b2714bba",
+      "user": {
+        "name": "Lemon",
+        "surname": "Chen"
+      },
+      "amountInUsd": "3000",
+      "currency": "EUR",
+      "time": 1546265334585,
+      "updatedTime": 1546265334585
+    },
+    {
+      "id": "6b87090e-87b2-44b0-8a01-d1fa02427d26",
+      "user": {
+        "name": "Sunnya",
+        "surname": "Sun"
+      },
+      "amountInUsd": "3000",
+      "currency": "CAD",
+      "time": 1546266022517,
+      "updatedTime": 1546266022517
+    }
+  ],
+  "exchange": [
+    {
+      "time": "2018-12-27T23:59:59.5020000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 116.20616948355695
+    },
+    {
+      "time": "2018-12-26T23:59:59.9838822Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 131.96024294045853
+    },
+    {
+      "time": "2018-12-25T23:59:59.9756853Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 130.480843051921
+    },
+    {
+      "time": "2018-12-24T23:59:59.9757495Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 140.42659291225695
+    },
+    {
+      "time": "2018-12-23T23:59:59.6097407Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 130.99926353770627
+    },
+    {
+      "time": "2018-12-22T23:59:59.9999014Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 117.64616674827442
+    },
+    {
+      "time": "2018-12-21T23:59:59.9983704Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 109.0114100566701
+    },
+    {
+      "time": "2018-12-20T23:59:59.9846859Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 115.73857154170103
+    },
+    {
+      "time": "2018-12-19T23:59:59.9970430Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 100.26426240111178
+    },
+    {
+      "time": "2018-12-18T23:59:59.8846056Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 102.05677395646855
+    },
+    {
+      "time": "2018-12-17T23:59:59.9929065Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 94.97286135461623
+    },
+    {
+      "time": "2018-12-16T23:59:59.7111597Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 84.94433100435279
+    },
+    {
+      "time": "2018-12-15T23:59:59.9714537Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 83.79173720744988
+    },
+    {
+      "time": "2018-12-14T23:59:59.9685496Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 83.58528693965366
+    },
+    {
+      "time": "2018-12-13T23:59:59.9958758Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 85.98333413503681
+    },
+    {
+      "time": "2018-12-12T23:59:59.9518826Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 90.07913329881382
+    },
+    {
+      "time": "2018-12-11T23:59:59.9610620Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 87.67308605124492
+    },
+    {
+      "time": "2018-12-10T23:59:59.9820063Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 90.26754497002302
+    },
+    {
+      "time": "2018-12-09T23:59:59.7117622Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 93.82338251703626
+    },
+    {
+      "time": "2018-12-08T23:59:59.9786904Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 90.89753527673226
+    },
+    {
+      "time": "2018-12-07T23:59:59.8918223Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 93.31205179308701
+    },
+    {
+      "time": "2018-12-06T23:59:59.9868118Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 90.14315827943278
+    },
+    {
+      "time": "2018-12-05T23:59:59.9481764Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 101.35437835745272
+    },
+    {
+      "time": "2018-12-04T23:59:59.9958527Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 109.49969595490607
+    },
+    {
+      "time": "2018-12-03T23:59:59.9637745Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 107.90890411974316
+    },
+    {
+      "time": "2018-12-02T23:59:59.7138338Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 115.71302821397441
+    },
+    {
+      "time": "2018-12-01T23:59:59.9950330Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 118.09164468915166
+    },
+    {
+      "time": "2018-11-30T23:59:59.9648719Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 112.66624171681649
+    },
+    {
+      "time": "2018-11-29T23:59:59.5729840Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 117.42894088764099
+    },
+    {
+      "time": "2018-11-28T23:59:59.9102185Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 122.82861695320216
+    },
+    {
+      "time": "2018-11-27T23:59:59.9947086Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 110.17229856998446
+    },
+    {
+      "time": "2018-11-26T23:59:59.9821696Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 108.78119231599646
+    },
+    {
+      "time": "2018-11-25T23:59:59.9448702Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 116.54952278290878
+    },
+    {
+      "time": "2018-11-24T23:59:59.9952132Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 112.64780122862099
+    },
+    {
+      "time": "2018-11-23T23:59:59.9676848Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 123.29799109787102
+    },
+    {
+      "time": "2018-11-22T23:59:59.9948501Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 124.80016552835492
+    },
+    {
+      "time": "2018-11-21T23:59:59.9838075Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 136.4386152922877
+    },
+    {
+      "time": "2018-11-20T23:59:59.9613437Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 130.5948830222815
+    },
+    {
+      "time": "2018-11-19T23:59:59.9726030Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 148.01533374691056
+    },
+    {
+      "time": "2018-11-18T23:59:59.9483468Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 177.41592321005456
+    },
+    {
+      "time": "2018-11-17T23:59:59.9015118Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 173.78219177045366
+    },
+    {
+      "time": "2018-11-16T23:59:59.8558424Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 174.65335091768165
+    },
+    {
+      "time": "2018-11-15T23:59:59.8362345Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 181.34442587559818
+    },
+    {
+      "time": "2018-11-14T23:59:59.9962725Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 182.36550330871816
+    },
+    {
+      "time": "2018-11-13T23:59:59.8863577Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 206.01212974341033
+    },
+    {
+      "time": "2018-11-12T23:59:59.5686507Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 210.1735500509809
+    },
+    {
+      "time": "2018-11-11T23:59:59.9332511Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 211.0559999790218
+    },
+    {
+      "time": "2018-11-10T23:59:59.8131322Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 211.37025008467072
+    },
+    {
+      "time": "2018-11-09T23:59:59.2775240Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 208.85486915551652
+    },
+    {
+      "time": "2018-11-08T23:59:59.9772268Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 210.96651433889537
+    },
+    {
+      "time": "2018-11-07T23:59:59.7009223Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 217.69814163762567
+    },
+    {
+      "time": "2018-11-06T23:59:59.9990696Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 219.32970498235582
+    },
+    {
+      "time": "2018-11-05T23:59:59.9509250Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 209.37319668863702
+    },
+    {
+      "time": "2018-11-04T23:59:59.7312274Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 211.03928626512948
+    },
+    {
+      "time": "2018-11-03T23:59:59.9665327Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 199.26817244218506
+    },
+    {
+      "time": "2018-11-02T23:59:59.9683105Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 200.62621518502934
+    },
+    {
+      "time": "2018-11-01T23:59:59.9804603Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 198.44623632418978
+    },
+    {
+      "time": "2018-10-31T23:59:59.7621759Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 197.5749724304714
+    },
+    {
+      "time": "2018-10-30T23:59:59.8939754Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 195.97055086649792
+    },
+    {
+      "time": "2018-10-29T23:59:59.9629993Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 195.28017035031553
+    },
+    {
+      "time": "2018-10-28T23:59:59.9971385Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 203.35937268482985
+    },
+    {
+      "time": "2018-10-27T23:59:59.9785009Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 202.25380099680697
+    },
+    {
+      "time": "2018-10-26T23:59:59.9963012Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 203.00355441007656
+    },
+    {
+      "time": "2018-10-25T23:59:59.9051934Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 200.90192571433226
+    },
+    {
+      "time": "2018-10-24T23:59:59.9950397Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 202.7044843071584
+    },
+    {
+      "time": "2018-10-23T23:59:59.8798293Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 203.32847810452142
+    },
+    {
+      "time": "2018-10-22T23:59:59.9448761Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 203.27832369608555
+    },
+    {
+      "time": "2018-10-21T23:59:59.9107983Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 204.44381800421712
+    },
+    {
+      "time": "2018-10-20T23:59:59.8226157Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 204.664615429133
+    },
+    {
+      "time": "2018-10-19T23:59:59.9980225Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 202.59040946923776
+    },
+    {
+      "time": "2018-10-18T23:59:59.8918056Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 202.0287079832771
+    },
+    {
+      "time": "2018-10-17T23:59:59.9929850Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 207.03182407056312
+    },
+    {
+      "time": "2018-10-16T23:59:59.9935513Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 209.5405433751957
+    },
+    {
+      "time": "2018-10-15T23:59:59.7858543Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 210.12509911298986
+    },
+    {
+      "time": "2018-10-14T23:59:59.9732579Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 194.67776758057963
+    },
+    {
+      "time": "2018-10-13T23:59:59.9838655Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 199.05126228454597
+    },
+    {
+      "time": "2018-10-10T23:59:59.8543063Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 224.92315778615824
+    },
+    {
+      "time": "2018-10-09T23:59:59.9895144Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 227.2180389228534
+    },
+    {
+      "time": "2018-10-08T23:59:59.9989169Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 229.15186116868108
+    },
+    {
+      "time": "2018-10-07T23:59:59.9853608Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 225.55184933137426
+    },
+    {
+      "time": "2018-10-06T23:59:59.9994577Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 224.5564511829128
+    },
+    {
+      "time": "2018-10-05T23:59:59.6889580Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 227.75039083750974
+    },
+    {
+      "time": "2018-10-04T23:59:59.9406347Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 221.62590528353465
+    },
+    {
+      "time": "2018-10-03T23:59:59.9980000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 219.81558361783274
+    },
+    {
+      "time": "2018-10-02T23:59:59.9070966Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 225.19002119606975
+    },
+    {
+      "time": "2018-10-01T23:59:59.9426433Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 230.7984375036577
+    },
+    {
+      "time": "2018-09-29T23:59:59.9552141Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 231.19193411210628
+    },
+    {
+      "time": "2018-09-28T23:59:59.9966941Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 221.0445834480207
+    },
+    {
+      "time": "2018-09-27T23:59:59.9923788Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 229.06870586752578
+    },
+    {
+      "time": "2018-09-26T23:59:59.9843877Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 214.12140174247608
+    },
+    {
+      "time": "2018-09-25T23:59:59.9937251Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 219.25681216626504
+    },
+    {
+      "time": "2018-09-24T23:59:59.9271829Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 227.84462746529255
+    },
+    {
+      "time": "2018-09-23T23:59:59.9741327Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 244.6790652039972
+    },
+    {
+      "time": "2018-09-22T23:59:59.9067351Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 240.69309789487076
+    },
+    {
+      "time": "2018-09-21T23:59:59.9828991Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 247.69658685688958
+    },
+    {
+      "time": "2018-09-20T23:59:59.9980000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 224.77518812484118
+    },
+    {
+      "time": "2018-09-19T23:59:59.7796793Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 209.75685197304227
+    },
+    {
+      "time": "2018-09-18T23:59:59.9887602Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 208.35982274232055
+    },
+    {
+      "time": "2018-09-17T23:59:59.8706331Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 196.00525418772455
+    },
+    {
+      "time": "2018-09-16T23:59:59.8013883Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 220.08165823573162
+    },
+    {
+      "time": "2018-09-15T23:59:59.8795349Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 221.58064814998093
+    },
+    {
+      "time": "2018-09-14T23:59:59.9436260Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 209.15543135825646
+    },
+    {
+      "time": "2018-09-13T23:59:59.9277242Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 211.1110524294327
+    },
+    {
+      "time": "2018-09-12T23:59:59.7420852Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 183.02131595547115
+    },
+    {
+      "time": "2018-09-11T23:59:59.9880987Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 185.05312523519257
+    },
+    {
+      "time": "2018-09-10T23:59:59.9918003Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 196.64980643514903
+    },
+    {
+      "time": "2018-09-09T23:59:59.8559081Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 195.95257971202747
+    },
+    {
+      "time": "2018-09-08T23:59:59.9969097Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 196.6975239838184
+    },
+    {
+      "time": "2018-09-07T23:59:59.9561984Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 215.1150967767605
+    },
+    {
+      "time": "2018-09-06T23:59:59.9998869Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 229.45030756984514
+    },
+    {
+      "time": "2018-09-05T23:59:59.9537731Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 228.09168709595838
+    },
+    {
+      "time": "2018-09-04T23:59:59.9582691Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 285.2402935724121
+    },
+    {
+      "time": "2018-09-03T23:59:59.8436102Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 288.9479723249999
+    },
+    {
+      "time": "2018-09-02T23:59:59.9967776Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 295.2195669994344
+    },
+    {
+      "time": "2018-09-01T23:59:59.9888740Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 295.4506013042817
+    },
+    {
+      "time": "2018-08-31T23:59:59.9904426Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 281.69711344694963
+    },
+    {
+      "time": "2018-08-30T23:59:59.8375946Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 284.0781474365928
+    },
+    {
+      "time": "2018-08-29T23:59:59.9998216Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 288.7115760023016
+    },
+    {
+      "time": "2018-08-28T23:59:59.9533031Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 295.53566445173897
+    },
+    {
+      "time": "2018-08-27T23:59:59.9376196Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 287.9766671576962
+    },
+    {
+      "time": "2018-08-26T23:59:59.9799015Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 274.26206913020366
+    },
+    {
+      "time": "2018-08-25T23:59:59.9947733Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 277.56866801710396
+    },
+    {
+      "time": "2018-08-24T23:59:59.9294853Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 281.3437643013879
+    },
+    {
+      "time": "2018-08-23T23:59:59.9682028Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 275.8650158729797
+    },
+    {
+      "time": "2018-08-22T23:59:59.8354010Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 270.40412588629937
+    },
+    {
+      "time": "2018-08-21T23:59:59.7794977Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 281.1890097581799
+    },
+    {
+      "time": "2018-08-20T23:59:59.8686933Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 270.67430708212976
+    },
+    {
+      "time": "2018-08-19T23:59:59.9352307Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 299.5560910730379
+    },
+    {
+      "time": "2018-08-18T23:59:59.9985918Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 294.9598374038297
+    },
+    {
+      "time": "2018-08-17T23:59:59.9644664Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 317.6791698691839
+    },
+    {
+      "time": "2018-08-16T23:59:59.8396145Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 286.811028589538
+    },
+    {
+      "time": "2018-08-15T23:59:59.9805944Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 281.20460619977297
+    },
+    {
+      "time": "2018-08-14T23:59:59.9956329Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 278.64662367549454
+    },
+    {
+      "time": "2018-08-13T23:59:59.8340000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 283.9672934718417
+    },
+    {
+      "time": "2018-08-12T23:59:59.5059105Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 318.1937833275919
+    },
+    {
+      "time": "2018-08-11T23:59:59.9795804Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 317.9860497420343
+    },
+    {
+      "time": "2018-08-10T23:59:59.2874846Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 331.2558630223318
+    },
+    {
+      "time": "2018-08-09T23:59:59.7770861Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 363.58914843921116
+    },
+    {
+      "time": "2018-08-08T23:59:59.9554230Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 355.5634613887186
+    },
+    {
+      "time": "2018-08-07T23:59:59.9872239Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 377.87819259511275
+    },
+    {
+      "time": "2018-08-06T23:59:59.9888880Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 404.8678576333668
+    },
+    {
+      "time": "2018-08-05T23:59:59.9950621Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 408.6913110159406
+    },
+    {
+      "time": "2018-08-04T23:59:59.8308357Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 406.8716077941407
+    },
+    {
+      "time": "2018-08-03T23:59:59.6738786Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 417.6498026827924
+    },
+    {
+      "time": "2018-08-02T23:59:58.2601819Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 410.78829649313855
+    },
+    {
+      "time": "2018-08-01T23:59:59.6964967Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 419.71330098974937
+    },
+    {
+      "time": "2018-07-31T23:59:59.9458171Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 431.87000543928434
+    },
+    {
+      "time": "2018-07-30T23:59:59.9499898Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 456.49576245280974
+    },
+    {
+      "time": "2018-07-29T23:59:59.9732362Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 466.15035402019487
+    },
+    {
+      "time": "2018-07-28T23:59:59.9638502Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 468.59082618366455
+    },
+    {
+      "time": "2018-07-27T23:59:59.9822411Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 469.76180886348084
+    },
+    {
+      "time": "2018-07-26T23:59:59.8852714Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 462.0318643207128
+    },
+    {
+      "time": "2018-07-25T23:59:59.6556697Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 471.3255167488697
+    },
+    {
+      "time": "2018-07-24T23:59:59.9891050Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 479.35186839611464
+    },
+    {
+      "time": "2018-07-23T23:59:59.9111597Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 449.3427425517992
+    },
+    {
+      "time": "2018-07-22T23:59:59.9955512Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 457.5265889941544
+    },
+    {
+      "time": "2018-07-21T23:59:59.3123380Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 460.96882751533695
+    },
+    {
+      "time": "2018-07-20T23:59:59.9351402Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 448.65120016012577
+    },
+    {
+      "time": "2018-07-19T23:59:59.3256967Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 468.4799862748472
+    },
+    {
+      "time": "2018-07-18T23:59:59.6334822Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 478.89379321076734
+    },
+    {
+      "time": "2018-07-16T23:59:59.8881906Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 478.8064586408824
+    },
+    {
+      "time": "2018-07-15T23:59:59.8357295Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 449.55012843941887
+    },
+    {
+      "time": "2018-07-14T23:59:59.5954237Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 433.63099559247985
+    },
+    {
+      "time": "2018-07-13T23:59:59.7401071Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 432.22142296664066
+    },
+    {
+      "time": "2018-07-12T23:59:59.9849174Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 430.9509828979333
+    },
+    {
+      "time": "2018-07-11T23:59:59.9884619Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 445.3980966043226
+    },
+    {
+      "time": "2018-07-10T23:59:59.7750000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 432.56322204626105
+    },
+    {
+      "time": "2018-07-09T23:59:59.9938922Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 471.33430698785185
+    },
+    {
+      "time": "2018-07-08T23:59:59.6052744Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 486.168226347254
+    },
+    {
+      "time": "2018-07-07T23:59:59.9593051Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 485.65618472941765
+    },
+    {
+      "time": "2018-07-06T23:59:58.4761160Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 469.7367650073429
+    },
+    {
+      "time": "2018-07-05T23:59:59.0587746Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 467.4542500942603
+    },
+    {
+      "time": "2018-07-04T23:59:59.7325792Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 467.1254095343474
+    },
+    {
+      "time": "2018-07-03T23:59:59.9540408Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 461.91616648540844
+    },
+    {
+      "time": "2018-07-02T23:59:59.9621019Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 476.62024953418194
+    },
+    {
+      "time": "2018-07-01T23:59:59.9813332Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 451.8335951672801
+    },
+    {
+      "time": "2018-06-30T23:59:59.8579513Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 453.62168189360494
+    },
+    {
+      "time": "2018-06-29T23:59:59.8658912Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 435.209562975704
+    },
+    {
+      "time": "2018-06-28T23:59:59.9186268Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 420.09590369648754
+    },
+    {
+      "time": "2018-06-27T23:59:59.1141825Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 441.58868527471896
+    },
+    {
+      "time": "2018-06-26T23:59:59.9881133Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 429.4447127638302
+    },
+    {
+      "time": "2018-06-25T23:59:59.8794465Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 458.6494416913187
+    },
+    {
+      "time": "2018-06-24T23:59:59.8481520Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 455.07192855529604
+    },
+    {
+      "time": "2018-06-23T23:59:59.9888997Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 474.05643727884853
+    },
+    {
+      "time": "2018-06-22T23:59:59.9776771Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 461.98407282792516
+    },
+    {
+      "time": "2018-06-21T23:59:59.8233851Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 525.740917826568
+    },
+    {
+      "time": "2018-06-20T23:59:59.9925119Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 536.1143647194199
+    },
+    {
+      "time": "2018-06-19T23:59:59.9772701Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 538.3774490506428
+    },
+    {
+      "time": "2018-06-18T23:59:59.9752352Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 517.5427241835675
+    },
+    {
+      "time": "2018-06-17T23:59:59.8885521Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 496.6358567841611
+    },
+    {
+      "time": "2018-06-16T23:59:59.9618972Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 496.7430383312194
+    },
+    {
+      "time": "2018-06-15T23:59:59.9959941Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 487.336051351394
+    },
+    {
+      "time": "2018-06-14T23:59:59.9460811Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 519.8494041207089
+    },
+    {
+      "time": "2018-06-13T23:59:59.8215343Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 476.16272426112397
+    },
+    {
+      "time": "2018-06-12T23:59:59.9754623Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 494.11323620652274
+    },
+    {
+      "time": "2018-06-11T23:59:59.8547109Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 531.071145251506
+    },
+    {
+      "time": "2018-06-10T23:59:59.9824826Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 524.4132784408928
+    },
+    {
+      "time": "2018-06-09T23:59:59.7873070Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 593.1723407457209
+    },
+    {
+      "time": "2018-06-08T23:59:59.8483323Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 599.3668531976633
+    },
+    {
+      "time": "2018-06-07T23:59:59.9568836Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 604.3007316181834
+    },
+    {
+      "time": "2018-06-06T23:59:59.8148430Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 606.2859590899434
+    },
+    {
+      "time": "2018-06-05T23:59:59.7953665Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 607.9633172792456
+    },
+    {
+      "time": "2018-06-04T23:59:59.7801211Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 591.19369928311
+    },
+    {
+      "time": "2018-06-03T23:59:59.5203408Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 618.9532859649872
+    },
+    {
+      "time": "2018-06-02T23:59:59.9621150Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 590.4847317637016
+    },
+    {
+      "time": "2018-06-01T23:59:59.9396076Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 578.9434827442827
+    },
+    {
+      "time": "2018-05-31T23:59:59.9265158Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 577.1118256110942
+    },
+    {
+      "time": "2018-05-30T23:59:58.5600057Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 556.9617724618694
+    },
+    {
+      "time": "2018-05-29T23:59:59.7449541Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 566.9290862751111
+    },
+    {
+      "time": "2018-05-28T23:59:59.9889493Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 511.8645923809151
+    },
+    {
+      "time": "2018-05-27T23:59:59.9844827Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 569.3861097324562
+    },
+    {
+      "time": "2018-05-26T23:59:59.9332440Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 585.3996686084724
+    },
+    {
+      "time": "2018-05-25T23:59:59.6869553Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 584.4969107121709
+    },
+    {
+      "time": "2018-05-24T23:59:59.9703857Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 602.442843943316
+    },
+    {
+      "time": "2018-05-23T23:59:59.5472224Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 577.0164640078697
+    },
+    {
+      "time": "2018-05-22T23:59:59.9887899Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 640.4086853236948
+    },
+    {
+      "time": "2018-05-21T23:59:59.8840247Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 696.5947121104977
+    },
+    {
+      "time": "2018-05-20T23:59:59.8252238Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 714.8463461259206
+    },
+    {
+      "time": "2018-05-19T23:59:59.9961283Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 696.2117753030174
+    },
+    {
+      "time": "2018-05-18T23:59:59.5646932Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 693.6452912989549
+    },
+    {
+      "time": "2018-05-17T23:59:59.4294572Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 668.1443775238546
+    },
+    {
+      "time": "2018-05-16T23:59:59.9501248Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 706.9391998184826
+    },
+    {
+      "time": "2018-05-15T23:59:59.8606992Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 705.4821540331703
+    },
+    {
+      "time": "2018-05-14T23:59:59.9127400Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 727.3001217952526
+    },
+    {
+      "time": "2018-05-13T23:59:59.5602909Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 729.1004825573282
+    },
+    {
+      "time": "2018-05-12T23:59:59.9475183Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 683.489134029467
+    },
+    {
+      "time": "2018-05-11T23:59:59.7845102Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 677.8560267193358
+    },
+    {
+      "time": "2018-05-10T23:59:58.7176662Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 723.4106418370211
+    },
+    {
+      "time": "2018-05-09T23:59:59.1650000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 750.8437619593158
+    },
+    {
+      "time": "2018-05-08T23:59:59.9556916Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 747.6425535642592
+    },
+    {
+      "time": "2018-05-07T23:59:59.8962461Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 752.3237716041377
+    },
+    {
+      "time": "2018-05-06T23:59:59.9821338Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 790.1767947841256
+    },
+    {
+      "time": "2018-05-05T23:59:57.7447611Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 816.5025619181729
+    },
+    {
+      "time": "2018-05-04T23:59:59.9516329Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 784.1162966182551
+    },
+    {
+      "time": "2018-05-03T23:59:59.9905518Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 777.582777651636
+    },
+    {
+      "time": "2018-05-02T23:59:59.8765999Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 686.9742533559917
+    },
+    {
+      "time": "2018-05-01T23:59:59.9952426Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 670.7373924241197
+    },
+    {
+      "time": "2018-04-30T23:59:59.7832872Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 670.0559538006684
+    },
+    {
+      "time": "2018-04-29T23:59:59.2427985Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 689.3329227214216
+    },
+    {
+      "time": "2018-04-28T23:59:59.9269323Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 682.7362451897352
+    },
+    {
+      "time": "2018-04-27T23:59:59.9852404Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 643.0834982207641
+    },
+    {
+      "time": "2018-04-26T23:59:59.9725221Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 661.3794189415551
+    },
+    {
+      "time": "2018-04-25T23:59:59.8060177Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 617.5842017335707
+    },
+    {
+      "time": "2018-04-24T23:59:59.7859796Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 703.295576249024
+    },
+    {
+      "time": "2018-04-23T23:59:59.9829849Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 643.8220578022047
+    },
+    {
+      "time": "2018-04-22T23:59:59.9082386Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 620.8450272008339
+    },
+    {
+      "time": "2018-04-21T23:59:59.8724829Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 605.0036648086557
+    },
+    {
+      "time": "2018-04-20T23:59:59.9992162Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 616.9986253555609
+    },
+    {
+      "time": "2018-04-19T23:59:59.8134300Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 566.9616511274209
+    },
+    {
+      "time": "2018-04-18T23:59:59.9987786Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 525.6388643947321
+    },
+    {
+      "time": "2018-04-17T23:59:59.9381738Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 502.8112664095341
+    },
+    {
+      "time": "2018-04-16T23:59:59.9853610Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 511.31499228343796
+    },
+    {
+      "time": "2018-04-15T23:59:59.8663861Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 534.0222147703317
+    },
+    {
+      "time": "2018-04-14T23:59:59.8429063Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 502.5516650000569
+    },
+    {
+      "time": "2018-04-13T23:59:59.9970556Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 495.6214285655424
+    },
+    {
+      "time": "2018-04-12T23:59:59.9876751Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 493.5742671758133
+    },
+    {
+      "time": "2018-04-11T23:59:58.4705144Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 429.9559438420413
+    },
+    {
+      "time": "2018-04-10T23:59:59.9555946Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 415.0898784456919
+    },
+    {
+      "time": "2018-04-09T23:59:59.9767858Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 398.7360239405763
+    },
+    {
+      "time": "2018-04-08T23:59:59.2565783Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 400.15059703241604
+    },
+    {
+      "time": "2018-04-07T23:59:59.9084312Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 384.4987504778197
+    },
+    {
+      "time": "2018-04-06T23:59:59.9283921Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 369.8845630075946
+    },
+    {
+      "time": "2018-04-05T23:59:59.9134805Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 381.1127567286063
+    },
+    {
+      "time": "2018-04-04T23:59:59.9862689Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 378.1055949453838
+    },
+    {
+      "time": "2018-04-03T23:59:59.9628861Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 415.77747412064315
+    },
+    {
+      "time": "2018-04-02T23:59:59.9641154Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 384.2597377802011
+    },
+    {
+      "time": "2018-04-01T23:59:59.9519478Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 378.62490940031097
+    },
+    {
+      "time": "2018-03-31T23:59:59.9916020Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 393.8246065372508
+    },
+    {
+      "time": "2018-03-30T23:59:59.7431546Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 393.46171828981005
+    },
+    {
+      "time": "2018-03-29T23:59:59.2096242Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 383.610526404001
+    },
+    {
+      "time": "2018-03-28T23:59:59.9875628Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 445.59019282234635
+    },
+    {
+      "time": "2018-03-27T23:59:59.7606038Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 448.41457141388764
+    },
+    {
+      "time": "2018-03-26T23:59:59.9594025Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 485.78994274086625
+    }, {
+      "time": "2018-03-25T23:59:59.9982775Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 522.5582649319196
+    }, {
+      "time": "2018-03-24T23:59:59.9305087Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 519.2234829895075
+    }, {
+      "time": "2018-03-23T23:59:59.9865787Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 543.5984996295836
+    }, {
+      "time": "2018-03-22T23:59:59.9707478Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 539.5149078790072
+    }, {
+      "time": "2018-03-21T23:59:59.8911616Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 559.4635749782796
+    }, {
+      "time": "2018-03-20T23:59:59.9464512Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 557.2556463252462
+    }, {
+      "time": "2018-03-19T23:59:59.9861787Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 555.1758893995955
+    }, {
+      "time": "2018-03-18T23:59:59.9875689Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 537.0620247372448
+    }, {
+      "time": "2018-03-17T23:59:59.9415148Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 549.0507818775518
+    }, {
+      "time": "2018-03-16T23:59:59.9200000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 599.8057518889296
+    }, {
+      "time": "2018-03-15T23:59:59.9859227Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 610.2227145873333
+    }, {
+      "time": "2018-03-14T23:59:59.8528616Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 612.3836199948336
+    }, {
+      "time": "2018-03-13T23:59:59.6285799Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 689.0878356143331
+    }, {
+      "time": "2018-03-12T23:59:59.9592698Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 696.4408112371302
+    }, {
+      "time": "2018-03-11T23:59:59.5222750Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 719.8089468220599
+    }, {
+      "time": "2018-03-10T23:59:59.2967624Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 681.0600982947872
+    }, {
+      "time": "2018-03-09T23:59:59.7712819Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 726.1980902267201
+    }, {
+      "time": "2018-03-08T23:59:59.9809550Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 697.8611004180673
+    }, {
+      "time": "2018-03-07T23:59:59.8386993Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 750.1967828554016
+    }, {
+      "time": "2018-03-06T23:59:59.8756475Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 814.793465552811
+    }, {
+      "time": "2018-03-05T23:59:59.3787129Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 848.5906527513952
+    }, {
+      "time": "2018-03-04T23:59:59.7490269Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 864.0486439978373
+    }, {
+      "time": "2018-03-03T23:59:59.3076095Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 854.7017334642264
+    }, {
+      "time": "2018-03-02T23:59:59.8835523Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 854.6462418975167
+    }, {
+      "time": "2018-03-01T23:59:59.4963915Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 869.1625501383437
+    }, {
+      "time": "2018-02-28T23:59:59.8395603Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 850.6664536500954
+    }, {
+      "time": "2018-02-27T23:59:59.9880000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 871.1553521509906
+    }, {
+      "time": "2018-02-26T23:59:59.3732635Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 867.3996864063282
+    }, {
+      "time": "2018-02-25T23:59:59.9995413Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 839.7507772557078
+    }, {
+      "time": "2018-02-24T23:59:59.9802917Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 832.3611751696988
+    }, {
+      "time": "2018-02-23T23:59:59.8066611Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 853.5156603197518
+    }, {
+      "time": "2018-02-22T23:59:59.7949456Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 804.0845975966561
+    }, {
+      "time": "2018-02-21T23:59:59.9966047Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 839.0479443435911
+    }, {
+      "time": "2018-02-20T23:59:59.7596243Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 884.4265245350072
+    }, {
+      "time": "2018-02-19T23:59:59.9776683Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 939.2300772504733
+    }, {
+      "time": "2018-02-18T23:59:59.9627552Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 913.8438107295825
+    }, {
+      "time": "2018-02-17T23:59:59.9112155Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 974.6071501504359
+    }, {
+      "time": "2018-02-16T23:59:59.9149055Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 937.4150331853156
+    }, {
+      "time": "2018-02-15T23:59:59.6870437Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 927.2148564989906
+    }, {
+      "time": "2018-02-14T23:59:59.9294705Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 920.0119635117546
+    }, {
+      "time": "2018-02-13T23:59:59.8960000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 840.1554375310599
+    }, {
+      "time": "2018-02-12T23:59:59.6623386Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 865.5955812394793
+    }, {
+      "time": "2018-02-11T23:59:59.6115329Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 810.831858058018
+    }, {
+      "time": "2018-02-10T23:59:59.9929147Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 850.5625866119419
+    }, {
+      "time": "2018-02-09T23:59:59.5383606Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 877.5571879503258
+    }, {
+      "time": "2018-02-08T23:59:59.3820232Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 812.9719680693271
+    }, {
+      "time": "2018-02-07T23:59:59.9045918Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 751.0868399276038
+    }, {
+      "time": "2018-02-06T23:59:59.9689902Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 783.3393647724516
+    }, {
+      "time": "2018-02-05T23:59:59.9824811Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 694.4276866268725
+    }, {
+      "time": "2018-02-04T23:59:59.9930847Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 825.6444097335221
+    }, {
+      "time": "2018-02-03T23:59:59.9667743Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 969.9155841881426
+    }, {
+      "time": "2018-02-02T23:59:59.9073267Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 915.7470383000458
+    }, {
+      "time": "2018-02-01T23:59:59.6578199Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1023.7620321193625
+    }, {
+      "time": "2018-01-31T23:59:59.8507394Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1108.9949222787575
+    }, {
+      "time": "2018-01-30T23:59:59.8136271Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1061.600332314392
+    }, {
+      "time": "2018-01-29T23:59:59.6962168Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1167.584418494961
+    }, {
+      "time": "2018-01-28T23:59:59.3739844Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1228.877441208629
+    }, {
+      "time": "2018-01-27T23:59:59.9704767Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1106.9020118055143
+    }, {
+      "time": "2018-01-26T23:59:59.5633276Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1047.4797932918862
+    }, {
+      "time": "2018-01-25T23:59:59.9953743Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1044.846822489947
+    }, {
+      "time": "2018-01-24T23:59:59.7909058Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1060.5598802300055
+    }, {
+      "time": "2018-01-23T23:59:59.7885132Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 983.8401622497648
+    }, {
+      "time": "2018-01-22T23:59:59.8420126Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 998.743362986321
+    }, {
+      "time": "2018-01-21T23:59:59.7352486Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1045.5997184301584
+    }, {
+      "time": "2018-01-20T23:59:59.8632182Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1149.0220772679086
+    }, {
+      "time": "2018-01-19T23:59:59.9922864Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1034.2925962393927
+    }, {
+      "time": "2018-01-18T23:59:59.9675920Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1014.2845653802877
+    }, {
+      "time": "2018-01-17T23:59:59.9980000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1024.930782587058
+    }, {
+      "time": "2018-01-16T23:59:59.9540000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1053.183774607017
+    }, {
+      "time": "2018-01-15T23:59:59.2610000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1277.0668537830202
+    }, {
+      "time": "2018-01-14T23:59:59.4669986Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1358.1719511886
+    }, {
+      "time": "2018-01-13T23:59:59.9972090Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1383.6686301239097
+    }, {
+      "time": "2018-01-12T23:59:59.4775921Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1258.8777961772075
+    }, {
+      "time": "2018-01-11T23:59:59.9857949Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1136.619693804268
+    }, {
+      "time": "2018-01-10T23:59:59.9049337Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1247.0165244551788
+    }, {
+      "time": "2018-01-09T23:59:59.9006745Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1287.0460927747924
+    }, {
+      "time": "2018-01-08T23:59:59.9962837Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1132.8982517002166
+    }, {
+      "time": "2018-01-07T23:59:59.7493119Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1115.9067955073044
+    }, {
+      "time": "2018-01-06T23:59:59.6320159Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 1004.7729981453278
+    }, {
+      "time": "2018-01-05T23:59:59.7207314Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 965.6043582494829
+    }, {
+      "time": "2018-01-04T23:59:59.8602937Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 943.9641330144796
+    }, {
+      "time": "2018-01-03T23:59:59.9879202Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 940.0471162570449
+    }, {
+      "time": "2018-01-02T23:59:59.5480641Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 861.3461147680592
+    }, {
+      "time": "2018-01-01T23:59:59.9802439Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 754.8433009383118
+    }, {
+      "time": "2017-12-31T23:59:59.9810874Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 739.4464899217264
+    }, {
+      "time": "2017-12-30T23:59:59.8553183Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 693.4928922929223
+    }, {
+      "time": "2017-12-29T23:59:59.9557036Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 739.2881896126208
+    }, {
+      "time": "2017-12-28T23:59:59.8243547Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 716.0950906722535
+    }, {
+      "time": "2017-12-27T23:59:59.6462151Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 738.2018061311412
+    }, {
+      "time": "2017-12-26T23:59:59.6140847Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 752.1007493983602
+    }, {
+      "time": "2017-12-25T23:59:59.9709591Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 722.3519849023182
+    }, {
+      "time": "2017-12-24T23:59:59.9345564Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 674.6775149013563
+    }, {
+      "time": "2017-12-23T23:59:59.9857811Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 702.8857894629056
+    }, {
+      "time": "2017-12-22T23:59:58.5470000Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 659.6847628730808
+    }, {
+      "time": "2017-12-21T23:59:59.7656989Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 790.5645576129945
+    }, {
+      "time": "2017-12-20T23:59:59.9509319Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 798.6663851797166
+    }, {
+      "time": "2017-12-19T23:59:59.9578761Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 813.0553313902808
+    }, {
+      "time": "2017-12-18T23:59:59.9692323Z",
+      "asset_id_base": "ETH",
+      "asset_id_quote": "USD",
+      "rate": 784.8657208752511
+    }
+  ]
+}
