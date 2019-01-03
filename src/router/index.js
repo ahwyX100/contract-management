@@ -8,6 +8,10 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
+      path: '/',
+      redirect: 'contract'
+    },
+    {
       path: '/contract',
       name: 'contract',
       component: ContractList

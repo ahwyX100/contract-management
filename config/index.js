@@ -13,7 +13,11 @@ module.exports = {
     proxyTable: [
       {
         context: ['/api'],
-        target: 'http://localhost:4000',
+        target: {
+          host: process.env['BACKEND_HOST'] ? process.env['BACKEND_HOST'] : "localhost",
+          protocol: 'http',
+          port: 4000
+        },
         changeOrigin: true,
         secure: false
       },
@@ -26,7 +30,7 @@ module.exports = {
     ],
 
     // Various Dev Server settings
-    host: 'localhost', // can be overwritten by process.env.HOST
+    host: '0.0.0.0', // can be overwritten by process.env.HOST
     port: 8080, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     autoOpenBrowser: false,
     errorOverlay: true,

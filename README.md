@@ -2,6 +2,8 @@
 
 > a code chanllenge for nomisma frontend interview
 
+This is a simple demo app built by `vue.js + vue-router + vuex`, with docker startup support.
+
 ## Requirement
 - node.js (>=9.2.0)
 - yarn
@@ -12,7 +14,7 @@
 
 We have two ways to startup app, you can choose either of them.
 ### 1. Docker container
-If you have docker installed, you can directly run `docker-compose up` under root directory.
+If you have docker installed, you can directly run `docker-compose up -d` under root directory.
 
 ### 2. local install
 

@@ -8,7 +8,6 @@ import i18n from '@nomisma/i18n'
 import Vuetify from 'vuetify'
 
 import 'vuetify/dist/vuetify.min.css'
-// import './assets/scss/main.scss'
 import 'material-design-icons-iconfont/dist/material-design-icons.css'
 import '@nomisma/theme/src/main.scss'
 import coreComponents from '@nomisma/components'

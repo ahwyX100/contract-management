@@ -4,6 +4,7 @@
       <line-chart :chart-data="datacollection" :options="chartOptions" style="width: 600px; height: 300px;"></line-chart>
     </div>
     <br>
+    <div>Only display data before 2018-12-30</div>
     <v-btn small color="primary" @click="prepareData(7)">{{ $t('last_one_week') }}</v-btn>
     <v-btn small color="primary" @click="prepareData(30)">{{ $t('last_one_month') }}</v-btn>
     <v-btn small color="primary" @click="prepareData(90)">{{ $t('last_three_months') }}</v-btn>

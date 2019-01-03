@@ -135,7 +135,16 @@ export default {
 
     deleteItem (item) {
       const targetIndex = this.partialContracts.indexOf(item)
-      confirm(this.$t('confirm_delete_item')) && this.deleteContract({ id: item.id, targetIndex })
+      const confirmState = confirm(this.$t('confirm_delete_item'))
+      if (confirmState) {
+        this.deleteContract({ id: item.id, targetIndex })
+          .then(() => {
+            this.$bus.$emit('NOTIFY_MESSAGE', {
+              type: 'success',
+              text: this.$t('delete_contract_success')
+            })
+          })
+      }
     },
 
     openModal () {
