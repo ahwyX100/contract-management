@@ -7,4 +7,3 @@ COPY ./backEnd/db.json /nomisma/backend/db.json
 COPY ./backEnd/routes.json /nomisma/backend/routes.json
 
 CMD ["nohup", "json-server", "-H", "0.0.0.0", "/nomisma/backend/db.json", "--routes", "/nomisma/backend/routes.json", "--port", "4000", "<", "server.logs", "&"]
-# ENTRYPOINT cd /nomisma/backend; nohup json-server --watch ./backEnd/db.json --routes ./backEnd/routes.json --port 4000 < server.logs &
