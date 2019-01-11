@@ -1,9 +1,9 @@
-# Contract management Web App
+# Vue CRUD Demo App
 
-> a code chanllenge for nomisma frontend interview
+> a simple CRUD Demo App Built by vue.js.
 
 ## Introduction
-This simple demo app is to complete nomisma code challenge front end part. It contains some key parts of modern web app development from code writing, unit test, build, and a simple deployment which powerd by `docker`.
+This demo app is a simple CRUD App with a chart to show ETH/USD rating trend. It contains some key parts of modern web app development from code writing, unit test, build, and a simple deployment which powerd by `docker`.
 
 It is  built by Vue.js, the main framework covers `vue.js`, `vue-router`, `vuex`, `vue-i18n`, with a simple backend part built by [json-server](https://github.com/typicode/json-server).
 
